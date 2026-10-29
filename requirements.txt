@@ -1,0 +1,19 @@
+streamlit>=1.38,<2
+pandas>=2.2,<3
+numpy>=1.26,<3
+scipy>=1.12,<2
+statsmodels>=0.14,<1
+scikit-learn>=1.4,<2
+plotly>=5.22,<6
+matplotlib>=3.8,<4
+seaborn>=0.13,<1
+openpyxl>=3.1,<4
+reportlab>=4.2,<5
+python-dotenv>=1.0,<2
+pytest>=8,<9
+# Optional integrations:
+# xgboost>=2.0
+# catboost>=1.2
+# shap>=0.45
+# umap-learn>=0.5
+# imbalanced-learn>=0.12

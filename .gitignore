@@ -1,0 +1,11 @@
+.venv/
+.env
+__pycache__/
+.pytest_cache/
+.streamlit/
+artifacts/*
+!artifacts/.gitkeep
+sample_data/*
+!sample_data/.gitkeep
+*.pyc
+.DS_Store
